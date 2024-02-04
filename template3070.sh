@@ -11,6 +11,8 @@ nano config.txt
 sleep 2
 nano start_multi_8.sh
 sleep 2
+chmod u+x start_multi_8.sh
+sleep 2
 screen -S gram -dm bash -c './start_multi_8.sh'
 sleep 2
 screen -r gram

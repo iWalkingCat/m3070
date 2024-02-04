@@ -5,7 +5,7 @@ curl -sL https://deb.nodesource.com/setup_20.x | bash
 sleep 2
 apt-get install -y nodejs
 sleep 2
-git clone https://github.com/iWalkingCat/m3070.git && cd m3070
+git clone https://github.com/TrueCarry/JettonGramGpuMiner.git && cd JettonGramGpuMiner
 sleep 2
 nano config.txt
 sleep 2
